@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>rplidar_python</name>
+  <version>0.0.0</version>
+  <description>The rplidar_python package</description>
+  <author>DinnerHowe</author>
+  <maintainer email="xu001314@163.com">howe</maintainer>
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roslaunch</build_depend>
+  <build_depend>rospy</build_depend>
+
+  <run_depend>roslaunch</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>message_runtime</run_depend>
+
+</package>
